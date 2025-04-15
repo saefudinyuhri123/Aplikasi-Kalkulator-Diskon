@@ -1,7 +1,8 @@
-# Aplikasi-Penjualan-Hewan-Ternak
-Aplikasi ini akan menjadi platform bagi calon pembeli kambing & sapi di Farm saya untuk melakukan transaksi secara online/offline. Fitur meliputi:
-Manajemen Data Hewan (Foto, Nama, Jenis, Berat, Harga, Usia, Kesehatan)
-Keranjang Belanja & Checkout (Metode pembayaran, Konfirmasi pesanan)
-Manajemen Pengguna (Penjual & Pembeli, Login/Registrasi)
-Chat/Komunikasi (Antara pembeli dan penjual)
-Laporan Penjualan (Bagi penjual untuk melihat riwayat transaksi)
+Kalkulator Diskon
+Aplikasi Kalkulator Diskon adalah aplikasi sederhana yang digunakan untuk menghitung harga akhir suatu produk setelah mendapatkan potongan diskon. Aplikasi ini cocok digunakan oleh pelaku usaha, kasir, maupun pembeli untuk menghitung harga dengan cepat dan akurat.
+
+Fitur
+Menghitung total harga setelah diskon.
+Input harga produk dan persentase diskon.
+Tampilan antarmuka yang sederhana dan mudah digunakan.
+Menampilkan hasil harga potongan dan total bayar.
